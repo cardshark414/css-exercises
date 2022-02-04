@@ -1,0 +1,12 @@
+.small{
+    border-color: lightgrey;
+    color: white;
+    background-color: black;
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+
+.large{
+    color: black;
+    background-color: yellow;
+}
